@@ -6,3 +6,6 @@ The following links will lead you to different projects repository:
 
 
 <a href="https://github.com/C3Imaging/Deep-Learning-Techniques/tree/Iris_SegNet">2- Iris SegNet</a>
+
+
+<a href="https://github.com/C3Imaging/Deep-Learning-Techniques/tree/Iris_SegNet">3- Off-axis Iris Segmentation</a>
