@@ -1,6 +1,4 @@
 # Off-axis Iris Segmentation
-You are in the master branch. 
-The following links will lead you to different projects repository:
 
 This is the Matlab code implemenation of the augmentation techniques described in the paper " Deep Neural Network and Data Augmentation Methodology for off-axis iris segmentation in wearable headsets " , https://arxiv.org/abs/1903.00389 
 
