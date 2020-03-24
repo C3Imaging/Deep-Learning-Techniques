@@ -1,6 +1,6 @@
 # Clean CelebA dataset
 
-# Clean - CelebA - v1
+## Clean - CelebA - v1
 
 This is a cleaner version of CelebA face dataset, containing 197,477 images of 9,996 celebrities.
 The original [CelebA]( http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) has many mislabelled images, and we would like to clean this dataset for better model training.  
