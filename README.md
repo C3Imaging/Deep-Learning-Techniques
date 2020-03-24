@@ -7,12 +7,12 @@ The original [CelebA]( http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) has man
 
 The paper of our cleaning work, "Dataset Cleaning - A Cross Validation Methodology for Large Facial Datasets using Face Recognition", can be found [here]( arxiv link)
 
-Initially, only a small percentage (~3%) of the dataset is cleaned. The dataset can be further cleaned either by selecting to examine for cleaning a higher percentage of a dataset or by applying multiple times the procedure explained in our work.
+Initially, only a small percentage (~3%) of the dataset is cleaned. The dataset can be further cleaned either by selecting to examine a higher percentage of the dataset or by applying multiple times the procedure explained in our work.
 
-Below you can find the data overview as well as the how to use the Clean- CelebA.
+Below you can find the data overview as well as the how to use the Clean-CelebA-v1.
 
 ## Data overview
-The Clean - CelebA is a slightly cleaned version of the original CelebA dataset. 
+The Clean - CelebA - v1 is a slightly cleaned version of the original CelebA dataset. 
 The table below compares our clean version with the original CelebA dataset:
 
 | Datasets | Celebrities |  Images  |
@@ -32,7 +32,8 @@ Clean CelebA v1 has two TXT files: " clean_CelebA_v1_img_list.txt " and " delete
 For both files, the first column is the identity label of the image and the second column is the number of the image.
 
 
-You may download the CelebA dataset and delete the file included in the deleted_v1_ CelebA _img_list.txt. Note that the cleaning procedure applies to all the CelebA dataset (train, val, test classes).
+You may download the CelebA dataset and delete the files included in the deleted_v1_ CelebA _img_list.txt.
+Note that the cleaning procedure applies to all the CelebA dataset (train, val, test classes).
 
 The original CelebA dataset can be downloaded on this website:
 http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
