@@ -5,7 +5,7 @@
 This is a cleaner version of CelebA face dataset, containing 197,477 images of 9,996 celebrities.
 The original [CelebA]( http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) has many mislabelled images, and we would like to clean this dataset for better model training.  
 
-The paper of our cleaning work, "Dataset Cleaning - A Cross Validation Methodology for Large Facial Datasets using Face Recognition", can be found [here]( arxiv link)
+The paper of our cleaning work, "Dataset Cleaning - A Cross Validation Methodology for Large Facial Datasets using Face Recognition", can be found [here](https://arxiv.org/abs/2003.10815)
 
 Initially, only a small percentage (~3%) of the dataset is cleaned. The dataset can be further cleaned either by selecting to examine a higher percentage of the dataset or by applying multiple times the procedure explained in our work.
 
@@ -41,4 +41,6 @@ http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 ## Citation information
 If you use this dataset, please cite our paper as below:
 
+
 The link of our paper “Dataset Cleaning - A Cross Validation Methodology for Large Facial Datasets using Face Recognition“ is:
+https://arxiv.org/abs/2003.10815
