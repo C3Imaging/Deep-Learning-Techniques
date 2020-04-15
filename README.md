@@ -40,9 +40,18 @@ http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 ## Citation information
 
-If you use this dataset, please cite our paper as below:
-
-Varkarakis, V. and Corcoran, P., 2020. Dataset Cleaning--A Cross Validation Methodology for Large Facial Datasets using Face Recognition. arXiv preprint arXiv:2003.10815.
+If you use the clean version of the CelebA dataset, please consider citing:
 
 The link of our paper “Dataset Cleaning - A Cross Validation Methodology for Large Facial Datasets using Face Recognition“ is:
 https://arxiv.org/abs/2003.10815
+
+```
+@article{varkarakis2020dataset,
+  title={Dataset Cleaning--A Cross Validation Methodology for Large Facial Datasets using Face Recognition},
+  author={Varkarakis, Viktor and Corcoran, Peter},
+  journal={arXiv preprint arXiv:2003.10815},
+  year={2020}
+}
+```
+
+
