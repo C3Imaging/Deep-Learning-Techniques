@@ -29,9 +29,11 @@ CASIA-Webfaces   | 256&times;256  | [Link](https://drive.google.com/open?id=1qna
 
 
 ![Uncurated StyleGAN CelebA](sample_images/Uncurated-CelebA.png)
+
 **Picture:** *Uncurated set of images produced by the StyleGAN model trained on CelebA.*
 
 ![Uncurated StyleGAN CASIA-Webface](sample_images/Uncurated-CASIA-Webface.png)
+
 **Picture:** *Uncurated set of images produced by the StyleGAN model trained on CASIA-Webfaces.*
 
 
