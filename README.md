@@ -6,10 +6,11 @@ The models / checkpoints for these two are given in the links below. How the mod
 
 Dataset          | Resolution | Model
 -----------------|------------|-----------
-CelebA           | 256&times;256  |    
-CASIA-Webfaces   | 256&times;256  |
+CelebA           | 256&times;256  | [Link](https://drive.google.com/open?id=1wQJafRmBOmhQ9E4-AlYFtdXk4IIXtTmJ)  
+CASIA-Webfaces   | 256&times;256  | [Link](https://drive.google.com/open?id=1qnaD8EVg2PZJvUQgAgGFbgb94zPGaaFn)
 
-* 2 GPUS RTX 2080 Ti and trained for 12d & 5h.
+* 2 GPUs RTX 2080 Ti 
+* Training time: 12 days & 13 hours.
 
 
 ## Evaluating quality and disentanglement 
@@ -24,16 +25,14 @@ CASIA-Webfaces   | 256&times;256  |
 | ls        | z: 143.2236<br>w: 2.5235   | z: 109.7136<br>w: 3.1748 | Linear Separability in *Z* and *W*.
 
 
-## Examples 
+## Sample Images
 
 
-![Uncurated StyleGAN CelebA] 
-(./stylegan-teaser.png)
+![Uncurated StyleGAN CelebA](sample_images/Uncurated-CelebA.png)
 **Picture:** *Uncurated set of images produced by the StyleGAN model trained on CelebA.*
 
-![Uncurated StyleGAN CASIA-Webface]
-(./stylegan-teaser.png)
-**Picture:** *Uncurated set of images produced by the StyleGAN model trained on CASIA-Webfaces
+![Uncurated StyleGAN CASIA-Webface](sample_images/Uncurated-CASIA-Webface.png)
+**Picture:** *Uncurated set of images produced by the StyleGAN model trained on CASIA-Webfaces.*
 
 
 
