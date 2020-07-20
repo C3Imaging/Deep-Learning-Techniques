@@ -14,4 +14,4 @@ The following links will lead you to different projects repository:
 
 <a href="https://github.com/C3Imaging/Deep-Learning-Techniques/tree/clean-celebA">5- Clean celebA dataset </a>
 
-<a href="https://github.com/C3Imaging/Deep-Learning-Techniques/tree/Synthetic_Face_Datasets">6- Synthetic Face Datasets with Unique IDs </a?
+<a href="https://github.com/C3Imaging/Deep-Learning-Techniques/tree/Synthetic_Face_Datasets">6- Synthetic Face Datasets with Unique IDs </a>
