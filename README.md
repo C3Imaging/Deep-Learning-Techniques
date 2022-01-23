@@ -17,3 +17,5 @@ The following links will lead you to different projects repository:
 <a href="https://github.com/C3Imaging/Deep-Learning-Techniques/tree/Synthetic_Face_Datasets">6- Synthetic Face Datasets with Unique IDs </a>
 
 <a href="https://github.com/C3Imaging/Deep-Learning-Techniques/tree/Quantify-Retrain-FR-for-Light">7- Quantifying and Compensating for Illumination Variations </a>
+
+<a href="https://github.com/C3Imaging/Deep-Learning-Techniques/tree/vac_var_gan_pytorch">8 - Versatile Auxiliary Classification and Regression With Generative Adversarial Networks </a>
